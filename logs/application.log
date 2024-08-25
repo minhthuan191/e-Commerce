@@ -1,0 +1,13 @@
+2024-08-25 11:39:32,970 [main] INFO  com.example.demo.controllers.CartController - [REMOVE FROM CART] -> {SUCCESS} Removed item from cart for user: shannon, quantity: 1
+2024-08-25 11:39:32,987 [main] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} Added item to cart for user: shannon
+2024-08-25 11:39:36,942 [main] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY NAME] -> item name input: item
+2024-08-25 11:39:36,959 [main] INFO  com.example.demo.controllers.ItemController - [GET ITEM BY ID] -> itemId input: 1
+2024-08-25 11:39:40,172 [main] INFO  com.example.demo.controllers.OrderController - [GET HISTORY BY USERNAME] -> {SUCCESS} display the history from shannon
+2024-08-25 11:39:40,186 [main] INFO  com.example.demo.controllers.OrderController - [SUBMIT ORDER] -> {SUCCESS} save a new submitted order from user -> shannon
+2024-08-25 11:39:43,833 [main] INFO  com.example.demo.controllers.UserController - [GET USER BY ID] -> id with -> 1
+2024-08-25 11:39:43,847 [main] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> name set with -> shannon
+2024-08-25 11:39:43,848 [main] INFO  com.example.demo.controllers.UserController - [CREATE CART] -> get id from cart -> null
+2024-08-25 11:39:43,848 [main] INFO  com.example.demo.controllers.UserController - [CREATE USER] -> {SUCCESS} Save username: shannon
+2024-08-25 11:39:43,849 [main] INFO  com.example.demo.controllers.UserController - [GET USER BY USERNAME] -> username with -> shannon
+2024-08-25 11:49:23,396 [main] INFO  com.example.demo.controllers.CartController - [REMOVE FROM CART] -> {SUCCESS} Removed item from cart for user: shannon, quantity: 1
+2024-08-25 11:49:23,412 [main] INFO  com.example.demo.controllers.CartController - [ADD TO CART] -> {SUCCESS} Added item to cart for user: shannon
